@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
-"""Generate 2026 geographic bubble chart. See REFERENCES.md and assets/ for data."""
-import pandas as pd
-import matplotlib.pyplot as plt
-from matplotlib.patches import Circle, Polygon
-import numpy as np
+"""Backward-compatible wrapper for the packaged chart generator.
 
-print("See full script in repository. Run after placing CSV in assets/.")
-# Full implementation available in the committed file.
+Preferred usage from the repository root:
+    uv run qc-funding-chart
+
+This script remains available for users accustomed to the original entry point:
+    uv run python generate_bubble_chart.py
+"""
+from qc_funding_chart.cli import main
+
+
+if __name__ == "__main__":
+    main()
