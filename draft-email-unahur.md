@@ -1,6 +1,6 @@
 # Draft email: UNAHUR interview request (v3)
 
-Status: DRAFT, not sent. Supersedes v1 and v2 (self-emailed 2026-10-19).
+Status: DRAFT, not sent. Supersedes v1 and v2 (self-emailed 2026-10-19). Plan and timing: `journal-unahur.md`.
 
 ## Contacts (no public press address found)
 
@@ -20,7 +20,7 @@ Final recipient: Dr. Federico Holik, Introducción a la Computación Cuántica y
 - Paired with an Amazon cloud service for larger machines (Amazon Braket). Source: Zonales.
 - Goal: launch a Master's in Quantum Technologies. Source: Zonales.
 - First quantum computer in the Argentine public university system, shared with other institutions. Source: unahur.edu.ar.
-- **Not confirmed:** price (Albert's estimate: about USD 10,000).
+- **Not confirmed:** price. Albert's estimate was about USD 10,000; public references put the 2-qubit Gemini Mini near USD 8,900 and the 3-qubit Triangulum near USD 55,000. Price request sent to SpinQ on 2026-10-19.
 
 ---
 
@@ -32,7 +32,7 @@ Estimado Dr. Holik:
 
 (Si este mensaje llega a una casilla general: les agradecería que lo reenvíen al Dr. Federico Holik, docente de Introducción a la Computación Cuántica y Tecnologías Cuánticas de la Licenciatura en Informática. Muchas gracias.)
 
-Mi nombre es Albert Gruning, soy desarrollador de software de Rosario y estoy cursando Introduction to Quantum Computing (QCFx1) en MIT xPRO, como parte de un año sabático dedicado a la computación cuántica (proyecto Qimono).
+Mi nombre es Albert Gruning, soy desarrollador de software de Rosario y fundador de Qimono, mi emprendimiento de tecnología. Estoy cursando Introduction to Quantum Computing (QCFx1) en MIT xPRO, como parte de un año sabático dedicado a la computación cuántica.
 
 Esta semana el curso nos pide un ensayo sobre una nota de The Economist que plantea que "los ingenieros, y quizás hasta los consumidores, van a tener que aprender a hablar cuántico", con ejemplos de gobiernos y empresas de todo el mundo. Me gustaría aportar el caso argentino, y la UNAHUR, con la primera computadora cuántica del sistema universitario y su modelo de uso compartido, es el mejor ejemplo que conozco.
 
@@ -51,6 +51,6 @@ Muchas gracias por su tiempo.
 
 Saludos cordiales,
 Albert Gruning
-Tech Developer, Qimono
+Fundador, Qimono
 Estudiante QCFx1, MIT xPRO
 Rosario, Santa Fe
