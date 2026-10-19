@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+build/
+*.egg-info/
+
+# uv
+uv.lock
+
+# Generated variants (keep committed reference artwork)
+assets/*_generated.png
