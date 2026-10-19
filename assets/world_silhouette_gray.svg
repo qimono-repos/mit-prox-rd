@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1000" height="500">
+  <!-- Simplified world silhouette matching the attached black reference style -->
+  <!-- North America -->
+  <path fill="#d0d5da" stroke="#b8c0c8" stroke-width="1.2" stroke-linejoin="round"
+        d="M120,140 C95,125 70,130 55,150 C40,175 35,210 50,240 C70,270 95,290 120,295 C145,300 165,285 175,260 C185,235 180,200 160,175 C145,155 130,145 120,140 Z"/>
+  <!-- Greenland -->
+  <path fill="#d0d5da" stroke="#b8c0c8" stroke-width="1"
+        d="M280,95 C295,85 315,90 325,110 C335,130 320,150 300,155 C280,160 265,145 270,125 C272,110 275,100 280,95 Z"/>
+  <!-- South America -->
+  <path fill="#d0d5da" stroke="#b8c0c8" stroke-width="1.2" stroke-linejoin="round"
+        d="M155,310 C170,305 185,320 195,345 C205,370 200,400 185,425 C170,450 150,470 135,475 C120,480 110,460 115,435 C120,410 130,385 140,360 C145,335 150,315 155,310 Z"/>
+  <!-- Eurasia -->
+  <path fill="#d0d5da" stroke="#b8c0c8" stroke-width="1.2" stroke-linejoin="round"
+        d="M380,145 C420,130 480,125 540,135 C600,145 660,155 720,165 C780,175 820,170 850,155 C870,140 860,125 830,120 C780,115 720,125 660,135 C600,145 540,140 480,135 C440,132 400,138 380,145 Z"/>
+  <!-- Africa -->
+  <path fill="#d0d5da" stroke="#b8c0c8" stroke-width="1.2" stroke-linejoin="round"
+        d="M430,200 C450,195 475,210 485,235 C495,260 490,290 475,315 C460,340 440,360 420,365 C400,370 385,350 390,325 C395,300 405,275 415,250 C420,225 425,205 430,200 Z"/>
+  <!-- India -->
+  <path fill="#d0d5da" stroke="#b8c0c8" stroke-width="1"
+        d="M620,210 C635,205 650,215 655,230 C660,245 650,255 635,250 C620,245 615,230 620,210 Z"/>
+  <!-- Australia -->
+  <path fill="#d0d5da" stroke="#b8c0c8" stroke-width="1.2" stroke-linejoin="round"
+        d="M780,340 C800,335 825,345 840,365 C855,385 845,405 820,410 C795,415 775,400 770,380 C765,360 770,345 780,340 Z"/>
+  <!-- Japan -->
+  <path fill="#d0d5da" stroke="#b8c0c8" stroke-width="0.8"
+        d="M820,190 C825,185 832,190 830,198 C828,205 820,202 818,195 C817,190 818,188 820,190 Z"/>
+</svg>
