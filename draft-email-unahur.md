@@ -1,6 +1,6 @@
-# Draft email: UNAHUR interview request (v3)
+# Draft email: UNAHUR interview request (v4 — English)
 
-Status: DRAFT, not sent. Supersedes v1 and v2 (self-emailed 2026-10-19). Plan and timing: `journal-unahur.md`.
+Status: DRAFT, not sent. Supersedes previous Spanish versions. Plan and timing: `journal-unahur.md`.
 
 ## Contacts (no public press address found)
 
@@ -24,33 +24,33 @@ Final recipient: Dr. Federico Holik, Introducción a la Computación Cuántica y
 
 ---
 
-## Email (Spanish)
+## Email (English)
 
-**Asunto:** Pedido de entrevista breve sobre la computadora cuántica de la UNAHUR
+**Subject:** Request for a short interview about UNAHUR's quantum computer
 
-Estimado Dr. Holik:
+Dear Dr. Holik,
 
-(Si este mensaje llega a una casilla general: les agradecería que lo reenvíen al Dr. Federico Holik, docente de Introducción a la Computación Cuántica y Tecnologías Cuánticas de la Licenciatura en Informática. Muchas gracias.)
+(If this message reaches a general inbox: I would be grateful if you could forward it to Dr. Federico Holik, instructor of Introduction to Quantum Computing and Quantum Technologies in the Computer Science degree. Thank you.)
 
-Mi nombre es Albert Gruning, soy desarrollador de software de Rosario y fundador de Qimono, mi emprendimiento de tecnología. Estoy cursando Introduction to Quantum Computing (QCFx1) en MIT xPRO, como parte de un año sabático dedicado a la computación cuántica.
+My name is Albert Gruning. I am a software developer based in Rosario and the founder of Qimono, my technology venture. I am currently taking Introduction to Quantum Computing (QCFx1) at MIT xPRO as part of a sabbatical year dedicated to quantum computing.
 
-Esta semana el curso nos pide un ensayo sobre una nota de The Economist que plantea que "los ingenieros, y quizás hasta los consumidores, van a tener que aprender a hablar cuántico", con ejemplos de gobiernos y empresas de todo el mundo. Me gustaría aportar el caso argentino, y la UNAHUR, con la primera computadora cuántica del sistema universitario y su modelo de uso compartido, es el mejor ejemplo que conozco.
+This week the course asks us to write a short essay on a 2017 Economist article that argues that "engineers (and perhaps even consumers) will have to learn to speak quantum," with examples from governments and companies around the world. I would like to contribute the Argentine case, and UNAHUR — with the first quantum computer in the public university system and its shared-use model — is the best example I know.
 
-Por eso quería pedirle una entrevista breve, de 20 a 30 minutos. Puedo viajar a Hurlingham esta semana, idealmente antes del viernes 23 de octubre; si le resulta más cómodo, también puede ser por videollamada.
+I am therefore writing to request a brief interview of 20 to 30 minutes. I can travel to Hurlingham this week, ideally before Friday 23 October; if more convenient, a video call also works.
 
-Algunas preguntas que me gustaría hacerle:
+Questions I would like to ask:
 
-1. Entiendo que el equipo es una SpinQ educativa de tres qubits por RMN, complementada con acceso en la nube a equipos más grandes vía Amazon. ¿Cómo se combinan ambos en la práctica, y para qué se están usando hoy?
-2. ¿Cómo funciona el acceso para otras universidades e institutos?
-3. ¿Qué perfil tienen los estudiantes que toman la materia, y qué les cuesta más al "aprender a hablar cuántico"? Personalmente me interesaría cursar con ustedes: ¿qué oferta hay hoy, y en qué está la Maestría en Tecnologías Cuánticas?
-4. ¿Dónde ve la oportunidad para la Argentina en esta tecnología?
+1. I understand the machine is an educational SpinQ system with three NMR qubits at room temperature, complemented by cloud access to larger machines via Amazon. How are the two used together in practice, and what are they being used for today?
+2. How does access work for other universities and institutes?
+3. What is the profile of the students taking the course, and what do they find most difficult when "learning to speak quantum"? Personally I would be interested in taking a course with you: what is currently offered, and what is the status of the Master's in Quantum Technologies?
+4. Where do you see the opportunity for Argentina in this technology?
 
-Con su autorización, citaría sus respuestas en mi ensayo y en el foro del curso, y le enviaría el texto antes de publicarlo.
+With your permission, I would cite your answers in my essay and in the course forum, and I would send you the text before publishing it.
 
-Muchas gracias por su tiempo.
+Thank you for your time.
 
-Saludos cordiales,
+Best regards,
 Albert Gruning
-Fundador, Qimono
-Estudiante QCFx1, MIT xPRO
+Founder, Qimono
+Student, QCFx1, MIT xPRO
 Rosario, Santa Fe
