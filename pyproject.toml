@@ -8,10 +8,11 @@ dependencies = ["matplotlib>=3.8", "pandas>=2.1"]
 
 [project.scripts]
 qc-funding-chart = "qc_funding_chart.cli:main"
+qimono-contacts = "contact_list.build:main"
 
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/qc_funding_chart"]
+packages = ["src/qc_funding_chart", "src/contact_list"]

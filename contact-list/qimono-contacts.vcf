@@ -1,0 +1,313 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Baravalle;Adriana;;;
+FN:Adriana Baravalle
+ORG:Secretaría de Innovación\, Ciencia y Tecnología (Jefatura de Gabinet
+ e\, Nación)
+TITLE:Secretaria de Innovación\, Ciencia y Tecnología
+TEL;TYPE=WORK:+54 11 4899-5000
+ADR;TYPE=WORK:;;Godoy Cruz 2320;Ciudad Autónoma de Buenos Aires;CABA;C1425
+ FQD;Argentina
+item1.URL:https://www.argentina.gob.ar/jefatura/innovacion-ciencia-y-tecnol
+ ogia
+item1.X-ABLabel:website
+item2.URL:https://x.com/innovacionar
+item2.X-ABLabel:Twitter
+X-SOCIALPROFILE;TYPE=twitter;x-user=innovacionar:https://x.com/innovacionar
+item3.URL:https://www.instagram.com/innovacionar
+item3.X-ABLabel:Instagram
+X-SOCIALPROFILE;TYPE=instagram;x-user=innovacionar:https://www.instagram.co
+ m/innovacionar
+item4.URL:https://www.linkedin.com/company/innovacionar
+item4.X-ABLabel:LinkedIn
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/company/innovacionar
+item5.URL:https://www.youtube.com/@innovacionarok
+item5.X-ABLabel:YouTube
+X-SOCIALPROFILE;TYPE=youtube:https://www.youtube.com/@innovacionarok
+CATEGORIES:Qimono - Quantum Outreach,Government - National
+NOTE:Runs PIFCyTC (quantum program that funded 3 CNEA projects). Baravalle 
+ appointed Aug 2026. Phone is the building switchboard used by the former M
+ INCyT offices at the same address\; no general email published\, use the w
+ eb contact or X DM.
+UID:qimono-ar-sicyt
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Comisión Nacional de Energía Atómica (CNEA)
+X-ABShowAs:COMPANY
+ORG:Comisión Nacional de Energía Atómica (CNEA)
+TEL;TYPE=WORK:+54 11 4704-1000
+item1.URL:https://www.argentina.gob.ar/cnea
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Government - National
+NOTE:Three CNEA quantum projects funded under PIFCyTC (quantum computing\, 
+ materials\, NV-diamond sensing). Phone from an older CNEA publication: ver
+ ify before calling.
+UID:qimono-ar-cnea
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Hynes;Érica;;;
+FN:Érica Hynes
+ORG:Secretaría de Ciencia\, Tecnología e Innovación - Ministerio de Desa
+ rrollo Productivo\, Santa Fe
+TITLE:Secretaria de Ciencia\, Tecnología e Innovación
+item1.URL:https://www.santafe.gob.ar
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Government - Provincial
+NOTE:Your home province (Rosario). Hynes also presides the Agencia Santafes
+ ina de Ciencia\, Tecnología e Innovación (ASaCTeI)\; minister is Gustavo
+  Puccini. Runs 'Investigación Orientada 2026' call. No public email found
+ : get it from the provincial site or ask via ASaCTeI.
+UID:qimono-ar-santafe-sectei
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Sione;Walter Fabián;;;
+FN:Walter Fabián Sione
+ORG:Secretaría de Ciencia\, Tecnología e Innovación - Gobierno de Entre 
+ Ríos
+TITLE:Secretario de Ciencia\, Tecnología e Innovación
+ADR;TYPE=WORK:;;;Paraná;Entre Ríos;;Argentina
+item1.URL:https://www.entrerios.gov.ar
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Government - Provincial
+NOTE:Also sits on the CONICET board (since May 2025). Launched Mirador TEC 
+ innovation hub in Paraná (2026). No public email found.
+UID:qimono-ar-entrerios-sectei
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Pedrosa;Juan;;;
+FN:Juan Pedrosa
+ORG:Universidad Nacional de Hurlingham (UNAHUR) - Iniciativa Cuántica
+TITLE:Secretario de Investigación
+ADR;TYPE=WORK:;;;Hurlingham;Buenos Aires;;Argentina
+item1.URL:https://unahur.edu.ar
+item1.X-ABLabel:website
+item2.URL:https://x.com/unahurlingham
+item2.X-ABLabel:Twitter
+X-SOCIALPROFILE;TYPE=twitter;x-user=unahurlingham:https://x.com/unahurlingh
+ am
+item3.URL:https://www.instagram.com/unahurlingham
+item3.X-ABLabel:Instagram
+X-SOCIALPROFILE;TYPE=instagram;x-user=unahurlingham:https://www.instagram.c
+ om/unahurlingham
+item4.URL:https://www.linkedin.com/school/unahur/
+item4.X-ABLabel:LinkedIn
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/school/unahur/
+item5.URL:https://www.youtube.com/@UNAHURLINGHAM
+item5.X-ABLabel:YouTube
+X-SOCIALPROFILE;TYPE=youtube:https://www.youtube.com/@UNAHURLINGHAM
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Hub of the 2026 Iniciativa Cuántica (UNAHUR\, UNLP\, UNSAM\, UNQ\, Fa
+ MAF-UNC\, UNRN\, AFA\, UBA). Has a 3-qubit SpinQ machine plus Amazon Brake
+ t access. Co-organizes the Escuela de Computación Cuántica para Informá
+ ticos (Bariloche). Rector: Jaime Perczyk. Best entry point for the essay o
+ utreach.
+UID:qimono-ar-unahur-iniciativa
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Bendersky;Ariel;;;
+FN:Ariel Bendersky
+ORG:Instituto de Ciencias de la Computación (ICC\, UBA-CONICET)
+TITLE:Signatory for UBA DC / ICC in the Iniciativa Cuántica
+EMAIL;TYPE=INTERNET,WORK:secretaria@icc.fcen.uba.ar
+TEL;TYPE=WORK:+54 11 5285-9732
+TEL;TYPE=WORK:+54 11 4576-3390 int 701
+ADR;TYPE=WORK:;;Pabellón Cero+Infinito\, Int. Güiraldes 2160\, Ciudad Uni
+ versitaria;Ciudad Autónoma de Buenos Aires;CABA;C1428EGA;Argentina
+item1.URL:https://icc.fcen.uba.ar
+item1.X-ABLabel:website
+item2.URL:https://x.com/icc_uba_conicet
+item2.X-ABLabel:Twitter
+X-SOCIALPROFILE;TYPE=twitter;x-user=icc_uba_conicet:https://x.com/icc_uba_c
+ onicet
+item3.URL:https://www.instagram.com/icc.uba.conicet
+item3.X-ABLabel:Instagram
+X-SOCIALPROFILE;TYPE=instagram;x-user=icc.uba.conicet:https://www.instagram
+ .com/icc.uba.conicet
+item4.URL:https://www.linkedin.com/company/icc-uba-conicet/
+item4.X-ABLabel:LinkedIn
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/company/icc-uba-coni
+ cet/
+item5.URL:https://www.facebook.com/icc.uba.conicet/
+item5.X-ABLabel:Facebook
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/icc.uba.conicet/
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Email and phones are the institute secretariat\, not Bendersky's perso
+ nal address. Ask the secretariat to forward to him.
+UID:qimono-ar-icc-uba
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Osenda;Omar;;;
+FN:Omar Osenda
+ORG:Asociación Física Argentina (AFA)
+TITLE:Presidente
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Physics association (not the football one). Signatory of the Iniciativ
+ a Cuántica\; ran Argentina's IYQ 2025 program. Contact details still to f
+ ind.
+UID:qimono-ar-afa-fisica
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Lemon (Lemon Cash)
+X-ABShowAs:COMPANY
+ORG:Lemon (Lemon Cash)
+TITLE:Press
+EMAIL;TYPE=INTERNET,WORK:prensa@lemon.me
+item1.URL:https://lemon.me
+item1.X-ABLabel:website
+item2.URL:https://x.com/lemonapp_ar
+item2.X-ABLabel:Twitter
+X-SOCIALPROFILE;TYPE=twitter;x-user=lemonapp_ar:https://x.com/lemonapp_ar
+item3.URL:https://www.instagram.com/lemoncash.app
+item3.X-ABLabel:Instagram
+X-SOCIALPROFILE;TYPE=instagram;x-user=lemoncash.app:https://www.instagram.c
+ om/lemoncash.app
+item4.URL:https://www.tiktok.com/@lemonapp.ar
+item4.X-ABLabel:TikTok
+X-SOCIALPROFILE;TYPE=tiktok;x-user=lemonapp.ar:https://www.tiktok.com/@lemo
+ napp.ar
+item5.URL:https://www.linkedin.com/company/lemonlat
+item5.X-ABLabel:LinkedIn
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/company/lemonlat
+item6.URL:https://www.youtube.com/c/LemonCashApp
+item6.X-ABLabel:YouTube
+X-SOCIALPROFILE;TYPE=youtube:https://www.youtube.com/c/LemonCashApp
+CATEGORIES:Qimono - Quantum Outreach,Company - Fintech
+NOTE:Essay angle: portfolio optimization / quantum-inspired methods. Career
+ s: https://lemon.me/careers. Founder and CEO: Marcelo Cavazzoli (reach via
+  LinkedIn).
+UID:qimono-co-lemon
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:MercadoLibre\, Inc.
+X-ABShowAs:COMPANY
+ORG:MercadoLibre\, Inc.
+TITLE:Investor Relations / Media Relations
+EMAIL;TYPE=INTERNET,WORK:investor@mercadolibre.com
+EMAIL;TYPE=INTERNET,WORK:valeria.bazzi@mercadolibre.com
+ADR;TYPE=WORK:;;WTC Free Zone\, Dr. Luis Bonavita 1294 Of. 1733\, Tower II;
+ Montevideo;;11300;Uruguay
+item1.URL:https://investor.mercadolibre.com
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Company - E-commerce
+NOTE:Essay angle: recommendation engines and logistics optimization. Second
+  email is the media relations contact listed in MELI press releases (Q2 20
+ 26). Engineers are easier to reach on LinkedIn.
+UID:qimono-co-meli
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Díaz;Facundo;;;
+FN:Facundo Díaz
+ORG:/q99 (and The Quantum Alliance)
+TITLE:Founder and President
+CATEGORIES:Qimono - Quantum Outreach,Company - Quantum (Argentina)
+NOTE:Argentine AI + quantum startup\, Premio Sadosky 2025 (CESSI)\, working
+  with Neuquén government on a quantum hub. Also works on quantum portfoli
+ o optimization. Find via LinkedIn.
+UID:qimono-co-q99
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:IonQ\, Inc.
+X-ABShowAs:COMPANY
+ORG:IonQ\, Inc.
+TITLE:Headquarters / Investor Relations
+TEL;TYPE=WORK:+1 301 298 7997
+ADR;TYPE=WORK:;;4505 Campus Drive;College Park;MD;20740;United States
+item1.URL:https://ionq.com
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Company - Quantum (Global)
+NOTE:IR contact form at https://investors.ionq.com. Hiring-metrics target f
+ or the essay.
+UID:qimono-co-ionq
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:D-Wave Quantum Inc.
+X-ABShowAs:COMPANY
+ORG:D-Wave Quantum Inc.
+TITLE:Media / Investor Relations
+EMAIL;TYPE=INTERNET,WORK:media@dwavesys.com
+EMAIL;TYPE=INTERNET,WORK:ir@dwavesys.com
+ADR;TYPE=WORK:;;;Palo Alto;CA;;United States
+item1.URL:https://ir.dwavesys.com
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Company - Quantum (Global)
+NOTE:Revelio Labs: 79 active postings in 2026 (+101%). Hiring-metrics targe
+ t.
+UID:qimono-co-dwave
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Quantum Computing Inc. (QCi)
+X-ABShowAs:COMPANY
+ORG:Quantum Computing Inc. (QCi)
+TITLE:General contact
+EMAIL;TYPE=INTERNET,WORK:info@quantumcomputinginc.com
+item1.URL:https://quantumcomputinginc.com
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Company - Quantum (Global)
+NOTE:Revelio Labs: 44 active postings in 2026 (+120%).
+UID:qimono-co-qci
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Quantum Economic Development Consortium (QED-C)
+X-ABShowAs:COMPANY
+ORG:Quantum Economic Development Consortium (QED-C)
+item1.URL:https://quantumconsortium.org
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Industry Body - Quantum
+NOTE:Publishes the monthly Quantum Technology Workforce Monitoring Report a
+ nd the State of the Global Quantum Industry report. Student/talent databas
+ e: https://quantumconsortium.org/students/
+UID:qimono-org-qedc
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:sysarmy (Comunidad de Sistemas) / Nerdearla
+X-ABShowAs:COMPANY
+ORG:sysarmy (Comunidad de Sistemas) / Nerdearla
+item1.URL:https://sysarmy.com
+item1.X-ABLabel:website
+item2.URL:https://x.com/sysarmy
+item2.X-ABLabel:Twitter
+X-SOCIALPROFILE;TYPE=twitter;x-user=sysarmy:https://x.com/sysarmy
+item3.URL:https://www.instagram.com/sysarmy
+item3.X-ABLabel:Instagram
+X-SOCIALPROFILE;TYPE=instagram;x-user=sysarmy:https://www.instagram.com/sys
+ army
+item4.URL:https://youtube.com/sysarmyar
+item4.X-ABLabel:YouTube
+X-SOCIALPROFILE;TYPE=youtube:https://youtube.com/sysarmyar
+item5.URL:https://www.linkedin.com/groups/4736196/
+item5.X-ABLabel:LinkedIn
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/groups/4736196/
+item6.URL:https://sysar.my/discord
+item6.X-ABLabel:Discord
+X-SOCIALPROFILE;TYPE=discord:https://sysar.my/discord
+item7.URL:https://www.meetup.com/sysarmy
+item7.X-ABLabel:Meetup
+X-SOCIALPROFILE;TYPE=meetup:https://www.meetup.com/sysarmy
+CATEGORIES:Qimono - Quantum Outreach,Community - Tech
+NOTE:9\,500+ Discord members. Runs the IT salary survey (openqube.io/sueldo
+ s)\, monthly #AdminBirras meetups\, and Nerdearla (https://nerdear.la). Fa
+ stest channel for volume feedback.
+UID:qimono-com-sysarmy
+END:VCARD
