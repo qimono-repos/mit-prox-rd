@@ -311,3 +311,268 @@ NOTE:9\,500+ Discord members. Runs the IT salary survey (openqube.io/sueldo
  stest channel for volume feedback.
 UID:qimono-com-sysarmy
 END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Iniciativa Cuántica Universitaria Argentina (ICUA)
+X-ABShowAs:COMPANY
+ORG:Iniciativa Cuántica Universitaria Argentina (ICUA)
+TITLE:National university quantum technology initiative
+item1.URL:https://unahur.edu.ar/unahur-impulsa-una-iniciativa-conjunta-para-el-desarrollo-de-tecnologias-cuanticas/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Official initiative announced Dec 2025 involving 15 national universities\, CIC and AFA. Focus: research\, training\, infrastructure\, cloud quantum access\, and links to industry.
+UID:qimono-ar-icua
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:I Escuela de Computación Cuántica para Informáticos (ECCI) - UNRN / UNAHUR
+X-ABShowAs:COMPANY
+ORG:I Escuela de Computación Cuántica para Informáticos (ECCI) - UNRN / UNAHUR
+TITLE:Program and event contact
+EMAIL;TYPE=INTERNET,WORK:comunicacion@unrn.edu.ar
+ADR;TYPE=WORK:;;;San Carlos de Bariloche;Río Negro;;Argentina
+item1.URL:https://ecci.unrn.edu.ar/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Official event site for the first ECCI\, held 21–25 Sep 2026. Public UNRN communications email\; ask to be routed to ECCI/ICUA organizers.
+UID:qimono-ar-unrn-ecci
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Paz;Juan Pablo;;;
+FN:Juan Pablo Paz
+ORG:Instituto de Física de Buenos Aires (IFIBA\, CONICET-UBA)
+TITLE:Senior researcher\, quantum information and computation
+ADR;TYPE=WORK:;;Intendente Güiraldes 2160;Ciudad Autónoma de Buenos Aires;CABA;C1428;Argentina
+item1.URL:https://bicyt.conicet.gov.ar/fichas/persona/4771/juan-pablo-paz
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:CONICET researcher profile documents expertise in quantum information/computation\, quantum simulators and quantum optics. Profile offers a send-message contact mechanism\; no email guessed.
+UID:qimono-ar-conicet-juan-pablo-paz
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Zabaleta;Omar Gustavo;;;
+FN:Omar Gustavo Zabaleta
+ORG:Laboratorio de Sistemas Complejos y Computación Cuántica (LSCCC) - UNMDP / ICyTE
+TITLE:Director\; research in quantum computing
+EMAIL;TYPE=INTERNET,WORK:gzabaleta@fi.mdp.edu.ar
+TEL;TYPE=WORK:+54 223 4816600
+TEL;TYPE=WORK:+54 223 4810046 int 185/264
+ADR;TYPE=WORK:;;Juan B. Justo 4302;Mar del Plata;Buenos Aires;;Argentina
+item1.URL:https://electronica.fi.mdp.edu.ar/lsccc/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Official UNMDP/ICYTE page lists quantum computing research and Zabaleta's institutional email. The lab directory also lists Juan Pablo Barrangú\, working on quantum-network security and communications.
+UID:qimono-ar-unmdp-lsccc
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Barrangú;Juan Pablo;;;
+FN:Juan Pablo Barrangú
+ORG:Laboratorio de Sistemas Complejos y Computación Cuántica (LSCCC) - UNMDP / ICyTE
+TITLE:Researcher\; quantum communications and network security
+EMAIL;TYPE=INTERNET,WORK:jpbarrangu@fi.mdp.edu.ar
+ADR;TYPE=WORK:;;Juan B. Justo 4302;Mar del Plata;Buenos Aires;;Argentina
+item1.URL:https://electronica.fi.mdp.edu.ar/lsccc/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Official UNMDP research-group directory lists this contact. Research includes transmission of data and security in quantum computer networks.
+UID:qimono-ar-unmdp-juan-pablo-barrangu
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Secretaría de Ciencia\, Tecnología e Innovación - Gobierno de Entre Ríos
+X-ABShowAs:COMPANY
+ORG:Secretaría de Ciencia\, Tecnología e Innovación - Gobierno de Entre Ríos
+TITLE:Official public contact
+EMAIL;TYPE=INTERNET,WORK:cienciaytecnologiaer@entrerios.gov.ar
+TEL;TYPE=WORK:+54 343 4071087
+ADR;TYPE=WORK:;;Buenos Aires 147\, Oficina 7;Paraná;Entre Ríos;;Argentina
+item1.URL:https://portal.entrerios.gov.ar/miradortec/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Government - Provincial
+NOTE:Official provincial MiradorTEC page lists email\, phone and address for the Secretariat. Useful for questions about science policy\, innovation programs\, training or referrals. No quantum-specific provincial program verified.
+UID:qimono-ar-entrerios-scti
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Facultad de Matemática\, Astronomía\, Física y Computación (FaMAF)\, Universidad Nacional de Córdoba
+X-ABShowAs:COMPANY
+ORG:Facultad de Matemática\, Astronomía\, Física y Computación (FaMAF)\, Universidad Nacional de Córdoba
+TITLE:Postgraduate academic inquiries
+EMAIL;TYPE=INTERNET,WORK:posgrado@famaf.unc.edu.ar
+item1.URL:https://famaf.unc.edu.ar/la-facultad/institucional/secretar%C3%ADas/secretar%C3%ADa-de-posgrado/cursos-posgrado/fisica-medica-redes-neuronales-python-y-computacion-cuantica/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Official FaMAF page advertised postgraduate courses including quantum computing in 2026. General postgraduate channel\, not a confirmed quantum-lab contact\; ask for the relevant instructor or research group.
+UID:qimono-ar-famaf-posgrado
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:IonQ\, Inc.
+X-ABShowAs:COMPANY
+ORG:IonQ\, Inc.
+TITLE:General and employment inquiries
+EMAIL;TYPE=INTERNET,WORK:info@ionq.com
+EMAIL;TYPE=INTERNET,WORK:jobs@ionq.com
+TEL;TYPE=WORK:+1 301 298 7997
+ADR;TYPE=WORK:;;4505 Campus Drive;College Park;Maryland;20740;United States
+item1.URL:https://www.ionq.com/contact
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Company - Quantum (Global)
+NOTE:Official IonQ contact page lists general inquiries\, employment inquiries and headquarters. Use jobs@ionq.com for career questions.
+UID:qimono-co-ionq-contact
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Pasqal
+X-ABShowAs:COMPANY
+ORG:Pasqal
+TITLE:Quantum computing company / careers
+item1.URL:https://careers.pasqal.com/
+item1.X-ABLabel:website
+item2.URL:https://www.linkedin.com/company/pasqal/
+item2.X-ABLabel:LinkedIn
+CATEGORIES:Qimono - Quantum Outreach,Company - Quantum (Global)
+NOTE:Official careers portal lists quantum developer\, quantum error correction\, hardware R&D\, cloud/software and business roles. Useful for comparing roles and hiring demand\; no email added because none verified.
+UID:qimono-co-pasqal
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Quantinuum
+X-ABShowAs:COMPANY
+ORG:Quantinuum
+TITLE:Quantum computing company / careers
+item1.URL:https://www.quantinuum.com/company/careers
+item1.X-ABLabel:website
+item2.URL:https://www.linkedin.com/company/quantinuum/
+item2.X-ABLabel:LinkedIn
+CATEGORIES:Qimono - Quantum Outreach,Company - Quantum (Global)
+NOTE:Official careers page covers hardware\, software\, science\, sales and operations roles. Useful for quantum workforce research\; no email added because none verified.
+UID:qimono-co-quantinuum
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Microsoft Azure Quantum
+X-ABShowAs:COMPANY
+ORG:Microsoft Azure Quantum
+TITLE:Quantum hardware and cloud ecosystem
+item1.URL:https://learn.microsoft.com/en-us/azure/quantum/qc-target-list
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Platform - Quantum
+NOTE:Official Microsoft documentation lists quantum hardware providers including IonQ\, Pasqal and Quantinuum\, with cloud quantum access. Useful technical ecosystem entry point\, not a direct outreach email.
+UID:qimono-org-azure-quantum
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Comisión de Investigaciones Científicas de la Provincia de Buenos Aires (CIC)
+X-ABShowAs:COMPANY
+ORG:Comisión de Investigaciones Científicas de la Provincia de Buenos Aires (CIC)
+TITLE:Provincial scientific research institution
+item1.URL:https://www.gba.gob.ar/cic
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Government - Provincial
+NOTE:Named as a participant in Argentina's university quantum initiative. General institutional starting point\; ask for the official quantum initiative liaison or relevant research group. No direct email added without verification.
+UID:qimono-ar-cic-pba
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Universidad Nacional de La Plata (UNLP) - Quantum Initiative participant
+X-ABShowAs:COMPANY
+ORG:Universidad Nacional de La Plata (UNLP) - Quantum Initiative participant
+TITLE:University and research entry point
+item1.URL:https://unlp.edu.ar/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Participant in the national university quantum initiative announced in Dec 2025. General institutional route\; ask to be referred to quantum technology researchers or initiative representatives. No dedicated quantum contact verified.
+UID:qimono-ar-unlp
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Universidad Nacional de San Martín (UNSAM) - Quantum Initiative participant
+X-ABShowAs:COMPANY
+ORG:Universidad Nacional de San Martín (UNSAM) - Quantum Initiative participant
+TITLE:University and research entry point
+item1.URL:https://www.unsam.edu.ar/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Participant in the national university quantum initiative. General institutional route\; ask for the relevant research group or initiative representative. No dedicated quantum contact verified.
+UID:qimono-ar-unsam
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Universidad Nacional de Quilmes (UNQ) - Quantum Initiative participant
+X-ABShowAs:COMPANY
+ORG:Universidad Nacional de Quilmes (UNQ) - Quantum Initiative participant
+TITLE:University and research entry point
+item1.URL:https://www.unq.edu.ar/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Participant in the national university quantum initiative. General institutional route\; ask for relevant researchers or initiative liaison. No dedicated quantum contact verified.
+UID:qimono-ar-unq
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN) - Quantum Initiative participant
+X-ABShowAs:COMPANY
+ORG:Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN) - Quantum Initiative participant
+TITLE:University and research entry point
+item1.URL:https://www.unicen.edu.ar/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Participant in the national university quantum initiative. General institutional route\; ask for relevant quantum technology researchers or initiative liaison. No dedicated quantum contact verified.
+UID:qimono-ar-unicen
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Universidad Nacional Arturo Jauretche (UNAJ) - Quantum Initiative participant
+X-ABShowAs:COMPANY
+ORG:Universidad Nacional Arturo Jauretche (UNAJ) - Quantum Initiative participant
+TITLE:University and research entry point
+item1.URL:https://www.unaj.edu.ar/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Participant in the national university quantum initiative. General institutional route\; ask for relevant quantum technology researchers or initiative liaison. No dedicated quantum contact verified.
+UID:qimono-ar-unaj
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Universidad Nacional del Noroeste de la Provincia de Buenos Aires (UNNOBA) - Quantum Initiative participant
+X-ABShowAs:COMPANY
+ORG:Universidad Nacional del Noroeste de la Provincia de Buenos Aires (UNNOBA) - Quantum Initiative participant
+TITLE:University and research entry point
+item1.URL:https://www.unnoba.edu.ar/
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Academia - Quantum
+NOTE:Participant in the national university quantum initiative. General institutional route\; ask for relevant quantum technology researchers or initiative liaison. No dedicated quantum contact verified.
+UID:qimono-ar-unnoBA
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:CNEA - Grupo de Circuitos Cuánticos (FLUXOPRO)
+X-ABShowAs:COMPANY
+ORG:CNEA - Grupo de Circuitos Cuánticos (FLUXOPRO)
+TITLE:Experimental superconducting processor research project
+item1.URL:https://www.argentina.gob.ar/noticias/tecnologias-cuanticas-tres-proyectos-de-la-cnea-obtuvieron-financiamiento-para-fortalecer
+item1.X-ABLabel:website
+CATEGORIES:Qimono - Quantum Outreach,Government - National
+NOTE:Official national-government announcement (8 Jun 2026) describes FLUXOPRO and its plan to build an experimental 4–8 fluxonium-qubit processor. Use the main CNEA contact and ask to be routed to the Quantum Circuits Group\; direct contact not published in the announcement.
+UID:qimono-ar-cnea-fluxopro
+END:VCARD
