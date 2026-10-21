@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="680" viewBox="0 0 1100 680">
+<rect width="1100" height="680" fill="#fff"/>
+<text x="80" y="48" font-family="Arial,sans-serif" font-size="27" font-weight="bold" fill="#222">Argentina: National Science &amp; Technology Budget</text>
+<text x="80" y="80" font-family="Arial,sans-serif" font-size="17" fill="#555">Function of Science and Technology as % of GDP | 2016–2026</text>
+<text x="80" y="106" font-family="Arial,sans-serif" font-size="14" fill="#666">Selected published markers only; not a complete annual series.</text>
+<g stroke="#ddd" stroke-width="1"><line x1="105" y1="540" x2="1015" y2="540"/><line x1="105" y1="440" x2="1015" y2="440"/><line x1="105" y1="340" x2="1015" y2="340"/><line x1="105" y1="240" x2="1015" y2="240"/><line x1="105" y1="140" x2="1015" y2="140"/></g>
+<g font-family="Arial,sans-serif" font-size="14" fill="#555" text-anchor="end"><text x="90" y="545">0.10%</text><text x="90" y="445">0.15%</text><text x="90" y="345">0.20%</text><text x="90" y="245">0.25%</text><text x="90" y="145">0.30%</text></g>
+<g font-family="Arial,sans-serif" font-size="14" fill="#555" text-anchor="middle"><text x="105" y="570">2016</text><text x="287" y="570">2018</text><text x="469" y="570">2020</text><text x="651" y="570">2022</text><text x="833" y="570">2024</text><text x="1015" y="570">2026</text></g>
+<polyline points="378,284 742,140 833,316 924,406" fill="none" stroke="#6b55a3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="924" y1="406" x2="1015" y2="412" stroke="#6b55a3" stroke-width="4" stroke-dasharray="8 7"/>
+<g fill="#6b55a3" stroke="#fff" stroke-width="3"><circle cx="378" cy="284" r="7"/><circle cx="742" cy="140" r="7"/><circle cx="833" cy="316" r="7"/><circle cx="924" cy="406" r="7"/></g><circle cx="1015" cy="412" r="8" fill="#fff" stroke="#c65f2e" stroke-width="4"/>
+<g font-family="Arial,sans-serif" font-size="15" fill="#333"><text x="355" y="265">2019 · 0.228%</text><text x="690" y="122">2023 · 0.300%</text><text x="800" y="296">2024 · 0.212%</text><text x="850" y="389">2025 · 0.167%</text><text x="900" y="445">2026* · 0.164%</text></g>
+<text x="80" y="615" font-family="Arial,sans-serif" font-size="14" fill="#555">* 2026 is a projection based on execution through September, not a final full-year result.</text>
+<text x="80" y="641" font-family="Arial,sans-serif" font-size="13" fill="#777">Sources: Grupo EPC–ANPRES (2025); CIICTI–ANPRES No. 32 (2026). Lines connect selected observations only.</text>
+</svg>
