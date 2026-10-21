@@ -9,10 +9,26 @@
       "title": "Secretaria de Innovación, Ciencia y Tecnología",
       "category": "Government - National",
       "emails": [],
-      "phones": [{"type": "work", "value": "+54 11 4899-5000"}],
-      "address": {"street": "Godoy Cruz 2320", "city": "Ciudad Autónoma de Buenos Aires", "region": "CABA", "postal": "C1425FQD", "country": "Argentina"},
+      "phones": [
+        {
+          "type": "work",
+          "value": "+54 11 4899-5000"
+        }
+      ],
+      "address": {
+        "street": "Godoy Cruz 2320",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postal": "C1425FQD",
+        "country": "Argentina"
+      },
       "web": "https://www.argentina.gob.ar/jefatura/innovacion-ciencia-y-tecnologia",
-      "social": {"x": "innovacionar", "instagram": "innovacionar", "linkedin": "https://www.linkedin.com/company/innovacionar", "youtube": "https://www.youtube.com/@innovacionarok"},
+      "social": {
+        "x": "innovacionar",
+        "instagram": "innovacionar",
+        "linkedin": "https://www.linkedin.com/company/innovacionar",
+        "youtube": "https://www.youtube.com/@innovacionarok"
+      },
       "note": "Runs PIFCyTC (quantum program that funded 3 CNEA projects). Baravalle appointed Aug 2026. Phone is the building switchboard used by the former MINCyT offices at the same address; no general email published, use the web contact or X DM."
     },
     {
@@ -22,7 +38,12 @@
       "title": "",
       "category": "Government - National",
       "emails": [],
-      "phones": [{"type": "work", "value": "+54 11 4704-1000"}],
+      "phones": [
+        {
+          "type": "work",
+          "value": "+54 11 4704-1000"
+        }
+      ],
       "address": null,
       "web": "https://www.argentina.gob.ar/cnea",
       "social": {},
@@ -49,7 +70,13 @@
       "category": "Government - Provincial",
       "emails": [],
       "phones": [],
-      "address": {"street": "", "city": "Paraná", "region": "Entre Ríos", "postal": "", "country": "Argentina"},
+      "address": {
+        "street": "",
+        "city": "Paraná",
+        "region": "Entre Ríos",
+        "postal": "",
+        "country": "Argentina"
+      },
       "web": "https://www.entrerios.gov.ar",
       "social": {},
       "note": "Also sits on the CONICET board (since May 2025). Launched Mirador TEC innovation hub in Paraná (2026). No public email found."
@@ -62,9 +89,20 @@
       "category": "Academia - Quantum",
       "emails": [],
       "phones": [],
-      "address": {"street": "", "city": "Hurlingham", "region": "Buenos Aires", "postal": "", "country": "Argentina"},
+      "address": {
+        "street": "",
+        "city": "Hurlingham",
+        "region": "Buenos Aires",
+        "postal": "",
+        "country": "Argentina"
+      },
       "web": "https://unahur.edu.ar",
-      "social": {"x": "unahurlingham", "instagram": "unahurlingham", "linkedin": "https://www.linkedin.com/school/unahur/", "youtube": "https://www.youtube.com/@UNAHURLINGHAM"},
+      "social": {
+        "x": "unahurlingham",
+        "instagram": "unahurlingham",
+        "linkedin": "https://www.linkedin.com/school/unahur/",
+        "youtube": "https://www.youtube.com/@UNAHURLINGHAM"
+      },
       "note": "Hub of the 2026 Iniciativa Cuántica (UNAHUR, UNLP, UNSAM, UNQ, FaMAF-UNC, UNRN, AFA, UBA). Has a 3-qubit SpinQ machine plus Amazon Braket access. Co-organizes the Escuela de Computación Cuántica para Informáticos (Bariloche). Rector: Jaime Perczyk. Best entry point for the essay outreach."
     },
     {
@@ -73,11 +111,36 @@
       "person": "Ariel Bendersky",
       "title": "Signatory for UBA DC / ICC in the Iniciativa Cuántica",
       "category": "Academia - Quantum",
-      "emails": [{"type": "work", "value": "secretaria@icc.fcen.uba.ar"}],
-      "phones": [{"type": "work", "value": "+54 11 5285-9732"}, {"type": "work", "value": "+54 11 4576-3390 int 701"}],
-      "address": {"street": "Pabellón Cero+Infinito, Int. Güiraldes 2160, Ciudad Universitaria", "city": "Ciudad Autónoma de Buenos Aires", "region": "CABA", "postal": "C1428EGA", "country": "Argentina"},
+      "emails": [
+        {
+          "type": "work",
+          "value": "secretaria@icc.fcen.uba.ar"
+        }
+      ],
+      "phones": [
+        {
+          "type": "work",
+          "value": "+54 11 5285-9732"
+        },
+        {
+          "type": "work",
+          "value": "+54 11 4576-3390 int 701"
+        }
+      ],
+      "address": {
+        "street": "Pabellón Cero+Infinito, Int. Güiraldes 2160, Ciudad Universitaria",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postal": "C1428EGA",
+        "country": "Argentina"
+      },
       "web": "https://icc.fcen.uba.ar",
-      "social": {"x": "icc_uba_conicet", "instagram": "icc.uba.conicet", "linkedin": "https://www.linkedin.com/company/icc-uba-conicet/", "facebook": "https://www.facebook.com/icc.uba.conicet/"},
+      "social": {
+        "x": "icc_uba_conicet",
+        "instagram": "icc.uba.conicet",
+        "linkedin": "https://www.linkedin.com/company/icc-uba-conicet/",
+        "facebook": "https://www.facebook.com/icc.uba.conicet/"
+      },
       "note": "Email and phones are the institute secretariat, not Bendersky's personal address. Ask the secretariat to forward to him."
     },
     {
@@ -99,11 +162,22 @@
       "person": "",
       "title": "Press",
       "category": "Company - Fintech",
-      "emails": [{"type": "work", "value": "prensa@lemon.me"}],
+      "emails": [
+        {
+          "type": "work",
+          "value": "prensa@lemon.me"
+        }
+      ],
       "phones": [],
       "address": null,
       "web": "https://lemon.me",
-      "social": {"x": "lemonapp_ar", "instagram": "lemoncash.app", "tiktok": "lemonapp.ar", "linkedin": "https://www.linkedin.com/company/lemonlat", "youtube": "https://www.youtube.com/c/LemonCashApp"},
+      "social": {
+        "x": "lemonapp_ar",
+        "instagram": "lemoncash.app",
+        "tiktok": "lemonapp.ar",
+        "linkedin": "https://www.linkedin.com/company/lemonlat",
+        "youtube": "https://www.youtube.com/c/LemonCashApp"
+      },
       "note": "Essay angle: portfolio optimization / quantum-inspired methods. Careers: https://lemon.me/careers. Founder and CEO: Marcelo Cavazzoli (reach via LinkedIn)."
     },
     {
@@ -112,9 +186,24 @@
       "person": "",
       "title": "Investor Relations / Media Relations",
       "category": "Company - E-commerce",
-      "emails": [{"type": "work", "value": "investor@mercadolibre.com"}, {"type": "work", "value": "valeria.bazzi@mercadolibre.com"}],
+      "emails": [
+        {
+          "type": "work",
+          "value": "investor@mercadolibre.com"
+        },
+        {
+          "type": "work",
+          "value": "valeria.bazzi@mercadolibre.com"
+        }
+      ],
       "phones": [],
-      "address": {"street": "WTC Free Zone, Dr. Luis Bonavita 1294 Of. 1733, Tower II", "city": "Montevideo", "region": "", "postal": "11300", "country": "Uruguay"},
+      "address": {
+        "street": "WTC Free Zone, Dr. Luis Bonavita 1294 Of. 1733, Tower II",
+        "city": "Montevideo",
+        "region": "",
+        "postal": "11300",
+        "country": "Uruguay"
+      },
       "web": "https://investor.mercadolibre.com",
       "social": {},
       "note": "Essay angle: recommendation engines and logistics optimization. Second email is the media relations contact listed in MELI press releases (Q2 2026). Engineers are easier to reach on LinkedIn."
@@ -139,8 +228,19 @@
       "title": "Headquarters / Investor Relations",
       "category": "Company - Quantum (Global)",
       "emails": [],
-      "phones": [{"type": "work", "value": "+1 301 298 7997"}],
-      "address": {"street": "4505 Campus Drive", "city": "College Park", "region": "MD", "postal": "20740", "country": "United States"},
+      "phones": [
+        {
+          "type": "work",
+          "value": "+1 301 298 7997"
+        }
+      ],
+      "address": {
+        "street": "4505 Campus Drive",
+        "city": "College Park",
+        "region": "MD",
+        "postal": "20740",
+        "country": "United States"
+      },
       "web": "https://ionq.com",
       "social": {},
       "note": "IR contact form at https://investors.ionq.com. Hiring-metrics target for the essay."
@@ -151,9 +251,24 @@
       "person": "",
       "title": "Media / Investor Relations",
       "category": "Company - Quantum (Global)",
-      "emails": [{"type": "work", "value": "media@dwavesys.com"}, {"type": "work", "value": "ir@dwavesys.com"}],
+      "emails": [
+        {
+          "type": "work",
+          "value": "media@dwavesys.com"
+        },
+        {
+          "type": "work",
+          "value": "ir@dwavesys.com"
+        }
+      ],
       "phones": [],
-      "address": {"street": "", "city": "Palo Alto", "region": "CA", "postal": "", "country": "United States"},
+      "address": {
+        "street": "",
+        "city": "Palo Alto",
+        "region": "CA",
+        "postal": "",
+        "country": "United States"
+      },
       "web": "https://ir.dwavesys.com",
       "social": {},
       "note": "Revelio Labs: 79 active postings in 2026 (+101%). Hiring-metrics target."
@@ -164,7 +279,12 @@
       "person": "",
       "title": "General contact",
       "category": "Company - Quantum (Global)",
-      "emails": [{"type": "work", "value": "info@quantumcomputinginc.com"}],
+      "emails": [
+        {
+          "type": "work",
+          "value": "info@quantumcomputinginc.com"
+        }
+      ],
       "phones": [],
       "address": null,
       "web": "https://quantumcomputinginc.com",
@@ -194,8 +314,251 @@
       "phones": [],
       "address": null,
       "web": "https://sysarmy.com",
-      "social": {"x": "sysarmy", "instagram": "sysarmy", "youtube": "https://youtube.com/sysarmyar", "linkedin": "https://www.linkedin.com/groups/4736196/", "discord": "https://sysar.my/discord", "meetup": "https://www.meetup.com/sysarmy"},
+      "social": {
+        "x": "sysarmy",
+        "instagram": "sysarmy",
+        "youtube": "https://youtube.com/sysarmyar",
+        "linkedin": "https://www.linkedin.com/groups/4736196/",
+        "discord": "https://sysar.my/discord",
+        "meetup": "https://www.meetup.com/sysarmy"
+      },
       "note": "9,500+ Discord members. Runs the IT salary survey (openqube.io/sueldos), monthly #AdminBirras meetups, and Nerdearla (https://nerdear.la). Fastest channel for volume feedback."
+    },
+    {
+      "id": "ar-icua",
+      "org": "Iniciativa Cuántica Universitaria Argentina (ICUA)",
+      "person": "",
+      "title": "National university quantum technology initiative",
+      "category": "Academia - Quantum",
+      "emails": [],
+      "phones": [],
+      "address": null,
+      "web": "https://unahur.edu.ar/unahur-impulsa-una-iniciativa-conjunta-para-el-desarrollo-de-tecnologias-cuanticas/",
+      "social": {},
+      "note": "Official initiative announced Dec 2025 involving 15 national universities, CIC and AFA. Focus: research, training, infrastructure, cloud quantum access, and links to industry."
+    },
+    {
+      "id": "ar-unrn-ecci",
+      "org": "I Escuela de Computación Cuántica para Informáticos (ECCI) - UNRN / UNAHUR",
+      "person": "",
+      "title": "Program and event contact",
+      "category": "Academia - Quantum",
+      "emails": [
+        {
+          "type": "work",
+          "value": "comunicacion@unrn.edu.ar"
+        }
+      ],
+      "phones": [],
+      "address": {
+        "street": "",
+        "city": "San Carlos de Bariloche",
+        "region": "Río Negro",
+        "postal": "",
+        "country": "Argentina"
+      },
+      "web": "https://ecci.unrn.edu.ar/",
+      "social": {},
+      "note": "Official event site for the first ECCI, held 21–25 Sep 2026. Public UNRN communications email; ask to be routed to ECCI/ICUA organizers."
+    },
+    {
+      "id": "ar-conicet-juan-pablo-paz",
+      "org": "Instituto de Física de Buenos Aires (IFIBA, CONICET-UBA)",
+      "person": "Juan Pablo Paz",
+      "title": "Senior researcher, quantum information and computation",
+      "category": "Academia - Quantum",
+      "emails": [],
+      "phones": [],
+      "address": {
+        "street": "Intendente Güiraldes 2160",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "region": "CABA",
+        "postal": "C1428",
+        "country": "Argentina"
+      },
+      "web": "https://bicyt.conicet.gov.ar/fichas/persona/4771/juan-pablo-paz",
+      "social": {},
+      "note": "CONICET researcher profile documents expertise in quantum information/computation, quantum simulators and quantum optics. Profile offers a send-message contact mechanism; no email guessed."
+    },
+    {
+      "id": "ar-unmdp-lsccc",
+      "org": "Laboratorio de Sistemas Complejos y Computación Cuántica (LSCCC) - UNMDP / ICyTE",
+      "person": "Omar Gustavo Zabaleta",
+      "title": "Director; research in quantum computing",
+      "category": "Academia - Quantum",
+      "emails": [
+        {
+          "type": "work",
+          "value": "gzabaleta@fi.mdp.edu.ar"
+        }
+      ],
+      "phones": [
+        {
+          "type": "work",
+          "value": "+54 223 4816600"
+        },
+        {
+          "type": "work",
+          "value": "+54 223 4810046 int 185/264"
+        }
+      ],
+      "address": {
+        "street": "Juan B. Justo 4302",
+        "city": "Mar del Plata",
+        "region": "Buenos Aires",
+        "postal": "",
+        "country": "Argentina"
+      },
+      "web": "https://electronica.fi.mdp.edu.ar/lsccc/",
+      "social": {},
+      "note": "Official UNMDP/ICYTE page lists quantum computing research and Zabaleta's institutional email. The lab directory also lists Juan Pablo Barrangú, working on quantum-network security and communications."
+    },
+    {
+      "id": "ar-unmdp-juan-pablo-barrangu",
+      "org": "Laboratorio de Sistemas Complejos y Computación Cuántica (LSCCC) - UNMDP / ICyTE",
+      "person": "Juan Pablo Barrangú",
+      "title": "Researcher; quantum communications and network security",
+      "category": "Academia - Quantum",
+      "emails": [
+        {
+          "type": "work",
+          "value": "jpbarrangu@fi.mdp.edu.ar"
+        }
+      ],
+      "phones": [],
+      "address": {
+        "street": "Juan B. Justo 4302",
+        "city": "Mar del Plata",
+        "region": "Buenos Aires",
+        "postal": "",
+        "country": "Argentina"
+      },
+      "web": "https://electronica.fi.mdp.edu.ar/lsccc/",
+      "social": {},
+      "note": "Official UNMDP research-group directory lists this contact. Research includes transmission of data and security in quantum computer networks."
+    },
+    {
+      "id": "ar-entrerios-scti",
+      "org": "Secretaría de Ciencia, Tecnología e Innovación - Gobierno de Entre Ríos",
+      "person": "",
+      "title": "Official public contact",
+      "category": "Government - Provincial",
+      "emails": [
+        {
+          "type": "work",
+          "value": "cienciaytecnologiaer@entrerios.gov.ar"
+        }
+      ],
+      "phones": [
+        {
+          "type": "work",
+          "value": "+54 343 4071087"
+        }
+      ],
+      "address": {
+        "street": "Buenos Aires 147, Oficina 7",
+        "city": "Paraná",
+        "region": "Entre Ríos",
+        "postal": "",
+        "country": "Argentina"
+      },
+      "web": "https://portal.entrerios.gov.ar/miradortec/",
+      "social": {},
+      "note": "Official provincial MiradorTEC page lists email, phone and address for the Secretariat. Useful for questions about science policy, innovation programs, training or referrals. No quantum-specific provincial program verified."
+    },
+    {
+      "id": "ar-famaf-posgrado",
+      "org": "Facultad de Matemática, Astronomía, Física y Computación (FaMAF), Universidad Nacional de Córdoba",
+      "person": "",
+      "title": "Postgraduate academic inquiries",
+      "category": "Academia - Quantum",
+      "emails": [
+        {
+          "type": "work",
+          "value": "posgrado@famaf.unc.edu.ar"
+        }
+      ],
+      "phones": [],
+      "address": null,
+      "web": "https://famaf.unc.edu.ar/la-facultad/institucional/secretar%C3%ADas/secretar%C3%ADa-de-posgrado/cursos-posgrado/fisica-medica-redes-neuronales-python-y-computacion-cuantica/",
+      "social": {},
+      "note": "Official FaMAF page advertised postgraduate courses including quantum computing in 2026. General postgraduate channel, not a confirmed quantum-lab contact; ask for the relevant instructor or research group."
+    },
+    {
+      "id": "co-ionq-contact",
+      "org": "IonQ, Inc.",
+      "person": "",
+      "title": "General and employment inquiries",
+      "category": "Company - Quantum (Global)",
+      "emails": [
+        {
+          "type": "work",
+          "value": "info@ionq.com"
+        },
+        {
+          "type": "work",
+          "value": "jobs@ionq.com"
+        }
+      ],
+      "phones": [
+        {
+          "type": "work",
+          "value": "+1 301 298 7997"
+        }
+      ],
+      "address": {
+        "street": "4505 Campus Drive",
+        "city": "College Park",
+        "region": "Maryland",
+        "postal": "20740",
+        "country": "United States"
+      },
+      "web": "https://www.ionq.com/contact",
+      "social": {},
+      "note": "Official IonQ contact page lists general inquiries, employment inquiries and headquarters. Use jobs@ionq.com for career questions."
+    },
+    {
+      "id": "co-pasqal",
+      "org": "Pasqal",
+      "person": "",
+      "title": "Quantum computing company / careers",
+      "category": "Company - Quantum (Global)",
+      "emails": [],
+      "phones": [],
+      "address": null,
+      "web": "https://careers.pasqal.com/",
+      "social": {
+        "linkedin": "https://www.linkedin.com/company/pasqal/"
+      },
+      "note": "Official careers portal lists quantum developer, quantum error correction, hardware R&D, cloud/software and business roles. Useful for comparing roles and hiring demand; no email added because none verified."
+    },
+    {
+      "id": "co-quantinuum",
+      "org": "Quantinuum",
+      "person": "",
+      "title": "Quantum computing company / careers",
+      "category": "Company - Quantum (Global)",
+      "emails": [],
+      "phones": [],
+      "address": null,
+      "web": "https://www.quantinuum.com/company/careers",
+      "social": {
+        "linkedin": "https://www.linkedin.com/company/quantinuum/"
+      },
+      "note": "Official careers page covers hardware, software, science, sales and operations roles. Useful for quantum workforce research; no email added because none verified."
+    },
+    {
+      "id": "org-azure-quantum",
+      "org": "Microsoft Azure Quantum",
+      "person": "",
+      "title": "Quantum hardware and cloud ecosystem",
+      "category": "Platform - Quantum",
+      "emails": [],
+      "phones": [],
+      "address": null,
+      "web": "https://learn.microsoft.com/en-us/azure/quantum/qc-target-list",
+      "social": {},
+      "note": "Official Microsoft documentation lists quantum hardware providers including IonQ, Pasqal and Quantinuum, with cloud quantum access. Useful technical ecosystem entry point, not a direct outreach email."
     }
   ]
 }
