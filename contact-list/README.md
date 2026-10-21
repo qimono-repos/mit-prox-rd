@@ -34,3 +34,13 @@ The builder lives in `src/contact_list/build.py` and uses only the Python standa
 - Preserve a source URL in `web` and/or `note`.
 - Verify role titles and contact details before outreach. Recheck time-sensitive facts before each campaign.
 - `as_of` in `contacts.json` is the date the data was last checked.
+
+
+## Outreach drafts in contact notes
+
+Each contact's Notes field now preserves the original research context and appends two editable Spanish-language drafts:
+
+- `--- EMAIL ---`: subject line and introductory email tailored to the person, institution, company, or community.
+- `--- Message ---`: shorter version suitable for LinkedIn or another professional direct message.
+
+These are drafts, not messages that have been sent. Review factual claims and adapt the proposed ask before sending. For generic institutional inboxes, the draft asks to be routed to the right person. The CSV and vCard exports carry the same Notes content so it remains available after import into a contacts app.
