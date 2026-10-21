@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+<title id="title">Argentina's national science and technology budget, 1972–2026</title>
+<desc id="desc">Selected historical observations of Argentina's national budget function for science and technology as a percentage of GDP. Values rise and fall across decades, peak at 0.354 percent in 2014 among the observations shown, and reach a reported historic low of 0.167 percent in 2025, with a 2026 projection of 0.164 percent.</desc>
+<rect width="1400" height="820" fill="#fbfaf8"/>
+<text x="90" y="58" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#1b2733">Argentina’s science budget: a long, uneven curve</text>
+<text x="90" y="94" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#53616d">National Budget Function for Science &amp; Technology • selected observations, 1972–2026</text>
+<text x="90" y="123" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#53616d">Share of GDP (%) • 2026 is a projection based on budget execution through September</text>
+<g stroke="#d9dee2" stroke-width="1">
+<line x1="110" y1="650" x2="1270" y2="650"/><line x1="110" y1="542.5" x2="1270" y2="542.5"/>
+<line x1="110" y1="435" x2="1270" y2="435"/><line x1="110" y1="327.5" x2="1270" y2="327.5"/>
+<line x1="110" y1="220" x2="1270" y2="220"/><line x1="110" y1="180" x2="1270" y2="180"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#53616d" text-anchor="end">
+<text x="95" y="655">0.00%</text><text x="95" y="547.5">0.10%</text><text x="95" y="440">0.20%</text><text x="95" y="332.5">0.30%</text><text x="95" y="225">0.40%</text>
+</g>
+<g stroke="#7c8993" stroke-width="1.5"><line x1="110" y1="180" x2="110" y2="650"/><line x1="110" y1="650" x2="1270" y2="650"/></g>
+<polyline points="110,404.65 196,441.55 303.7,299.05 368.1,411.35 432.6,290.05 540,435 604.4,361.4 754.4,459.7 904.8,301.8 1012.2,269.45 1119.6,404.65 1205.6,327.5 1227.1,421.9 1248.5,470.55 1270,473.7" fill="none" stroke="#5c4cc4" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<g fill="#5c4cc4" stroke="#fbfaf8" stroke-width="3">
+<circle cx="110" cy="404.65" r="7"/><circle cx="196" cy="441.55" r="7"/><circle cx="303.7" cy="299.05" r="7"/><circle cx="368.1" cy="411.35" r="7"/><circle cx="432.6" cy="290.05" r="7"/><circle cx="540" cy="435" r="7"/><circle cx="604.4" cy="361.4" r="7"/><circle cx="754.4" cy="459.7" r="7"/><circle cx="904.8" cy="301.8" r="7"/><circle cx="1012.2" cy="269.45" r="7"/><circle cx="1119.6" cy="404.65" r="7"/><circle cx="1205.6" cy="327.5" r="7"/><circle cx="1227.1" cy="421.9" r="7"/><circle cx="1248.5" cy="470.55" r="7"/><circle cx="1270" cy="473.7" r="7"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#53616d" text-anchor="middle">
+<text x="110" y="679">1972</text><text x="303.7" y="679">1981</text><text x="432.6" y="679">1987</text><text x="604.4" y="679">1995</text><text x="754.4" y="679">2002</text><text x="904.8" y="679">2009</text><text x="1012.2" y="679">2014</text><text x="1119.6" y="679">2019</text><text x="1205.6" y="679">2023</text><text x="1270" y="679">2026*</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#1b2733">
+<path d="M1012 269 L960 214 L840 214" fill="none" stroke="#5c4cc4" stroke-width="1.5"/>
+<text x="832" y="205" font-size="18" font-weight="700" text-anchor="end">2014: 0.354% • peak among highlighted years</text>
+<path d="M1248 471 L1165 514 L1055 514" fill="none" stroke="#c04444" stroke-width="1.5"/>
+<text x="1047" y="507" font-size="18" font-weight="700" text-anchor="end" fill="#a53333">2025: 0.167% • reported historic low</text>
+<path d="M1270 474 L1288 548 L1165 548" fill="none" stroke="#c04444" stroke-width="1.5"/>
+<text x="1157" y="542" font-size="17" font-weight="700" text-anchor="end" fill="#a53333">2026*: 0.164% • projection</text>
+</g>
+<rect x="90" y="714" width="1220" height="64" rx="10" fill="#efedf9"/>
+<text x="112" y="741" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#342d7a">How to read this:</text>
+<text x="112" y="765" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#342d7a">Markers are published historical values, not every annual observation. Connecting lines are visual guides; they do not imply annual data between markers.</text>
+<text x="90" y="802" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#53616d">Sources: Grupo EPC–ANPRES (2025 series and historical markers); CIICTI, ANPRES No. 32 (2026 projection). See accompanying README for notes and links.</text>
+</svg>
