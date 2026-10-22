@@ -1,4 +1,4 @@
-# Quantum Computing: Big Investment, Bigger Questions
+# The tipping point of the Quantum Computing
 ## Draft Version 13
 
 Brainstorm draft. No word limit yet. Built from draft 12 plus the live question-by-question session of 2026-10-21. Draft 12 is untouched.
