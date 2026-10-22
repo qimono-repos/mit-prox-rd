@@ -42,7 +42,7 @@ For me the strongest example is robotics. Bosch's Michael Bolle describes autono
 
 A current example from my own field: Ubuntu 26.10 introduced post-quantum package signing in October 2026.[^5] This is not a quantum computer running Linux. It is ordinary software changing now because of a future quantum threat. NIST standardized the signature schemes (ML-DSA and SLH-DSA) in 2024.[^6] Speaking quantum does not mean every engineer becomes a physicist. It means knowing where the risk is and which standard to pick. [TO VERIFY: Ubuntu 26.10 claims and sources.]
 
-As a person born in South America I can give this personal experience in Argentina. UNAHUR (Universidad Nacional de Hurlingham) installed the first quantum computer in the Argentine public university system: an educational SpinQ, 3 qubits, NMR at room temperature, shared with other institutions and combined with cloud access to larger machines. [PLACEHOLDER: interview with Dr. Federico Holik, if it happens.] CNEA is building an experimental fluxonium processor (FLUXOPRO), while the national science budget faces deep cuts.[^3] I call this Argentina-no-continuity: real talent and real projects, unstable support. That is why QaaS and hybrid setups matter here; they let a country learn to speak quantum before it can afford to build. As founder of Qimono (TM), I live this gap every day: the learning is open to anyone, the hardware is not.
+As a person born in South America I can give this personal experience in Argentina. UNAHUR (Universidad Nacional de Hurlingham) installed the first quantum computer in the Argentine public university system: an educational SpinQ, 3 qubits, NMR at room temperature, shared with other institutions and combined with cloud access to larger machines. A 3-qubit SpinQ teaching machine costs about USD 17,000 before import taxes, according to SpinQ's sales team; the 2-qubit model costs about USD 12,000.[^7] [PLACEHOLDER: interview with Dr. Federico Holik, if it happens.] CNEA is building an experimental fluxonium processor (FLUXOPRO), while the national science budget faces deep cuts.[^3] I call this Argentina-no-continuity: real talent and real projects, unstable support. That is why QaaS and hybrid setups matter here; they let a country learn to speak quantum before it can afford to build. As founder of Qimono (TM), I live this gap every day: the learning is open to anyone, the hardware is not.
 
 ---
 
@@ -58,6 +58,8 @@ As a person born in South America I can give this personal experience in Argenti
 
 [^6]: NIST FIPS 204 and FIPS 205, August 13, 2024.
 
+[^7]: Email from Rachel Lin, Overseas Sales Manager, Shenzhen SpinQ Technology, to the author, October 20, 2026: "Gemini Mini Pro (2-qubit): USD12,000, Triangulum Mini (3-qubit): USD17,000." Includes hardware, software, teaching materials and DHL shipping; tax and duty not included. Informal price, not a formal quotation. The exact model UNAHUR owns is not confirmed.
+
 ---
 
 ## Changes from v11
@@ -65,5 +67,5 @@ As a person born in South America I can give this personal experience in Argenti
 - Section 2: the four reasons now come from Palmer's text, not McKinsey. Footnote 2 removed. Security became reason 3 instead of a side note.
 - Section 1: added the "why" (state-led versus company-led) and the "since 2017" geopolitics; facts flagged to verify.
 - Section 3: the three ways use the article's own examples (IBM cloud, Algorithm Zoo, 1QBit). Clearer position on Gil: believe the map, not the destination.
-- Section 4: added the article's corporate examples, the Bosch robotics hook, UNAHUR, and Qimono (TM).
+- Section 4: added the article's corporate examples, the Bosch robotics hook, UNAHUR, the SpinQ price (first-hand email quote), and Qimono (TM).
 - Kept: required South America sentence, QaaS, hybrid setups, financial services, the evolving idea, portfolio optimization, Argentina-no-continuity, Big O as new currency, quantum advantage not cleanly defined in the article.
